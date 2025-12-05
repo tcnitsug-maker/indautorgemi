@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "type": "module",
   "scripts": {
-    "start": "node server-gemini.js"
+    "start": "node server.js"
   },
   "dependencies": {
     "@google/generative-ai": "^0.3.0",
